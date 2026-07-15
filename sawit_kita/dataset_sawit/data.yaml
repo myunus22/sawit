@@ -1,0 +1,14 @@
+names:
+- Healthy
+- Infected
+- Initial Infection
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: palm-oil-leaf-ganoderma
+  url: https://universe.roboflow.com/palm-oil-leaves-ganoderma-disease-detection/palm-oil-leaf-ganoderma/dataset/3
+  version: 3
+  workspace: palm-oil-leaves-ganoderma-disease-detection
+test: ../test/images
+train: ../train/images
+val: ../valid/images
